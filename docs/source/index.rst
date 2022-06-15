@@ -17,7 +17,7 @@ Contents
 --------
 
 .. toctree::
-   plantilla
+   sisofre
    usage
    api
    
