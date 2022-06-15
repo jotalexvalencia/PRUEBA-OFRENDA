@@ -1,4 +1,4 @@
-Bienvenido to TIC La Ofrenda's documentation!
+Prueba TIC La Ofrenda Documentación!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
