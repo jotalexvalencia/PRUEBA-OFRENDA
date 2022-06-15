@@ -20,4 +20,4 @@ Contents
 
    usage
    api
-   plantilla cargue masivo portal de luz
+   plantilla
