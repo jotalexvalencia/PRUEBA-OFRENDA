@@ -24,3 +24,16 @@ Glosario
 
       .. seealso:: URL Pagina Oficial https://www.dian.gov.co  
     
+    Paso a Paso
+
+**1) Boton :** :guilabel:`Nuevo`.
+
+**2) Sucursal:**click en el campo se abre una lista desplegable con las surcursables diponibles elegi una (*Obligatorio).
+
+**3) Nombre:** escriba un nombre para su consecutivo(*Obligatorio).
+
+**4) Sufijo:** este no es (*Obligatorio) y en la mayoria los casos este numero impuesto a gusto por las organizacion el numero digitado aqui va impreso en la factura el orden este es antes del # de factura.
+
+**5) Numero Inicial:** para completar este dato debemos de tener el documento Solicitud sobre numeracion de facturacion de la Dian en el campo 27. Desde el numero es el dato que debemols digitar aqui (*Obligatorio).
+
+.. image:: images/113.jpg
