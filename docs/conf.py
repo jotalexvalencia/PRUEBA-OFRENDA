@@ -46,9 +46,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'ISP 365'
-copyright = u'2019, Source Solutions SAS'
-author = u'Jefferson Quintero'
+project = u'PRUEBA-OFRENDA'
+copyright = u'2022, PRUEBA OFRENDA'
+author = u'Jorge Alexander Valenia Valencia'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
