@@ -12,7 +12,8 @@ Contenidos:
     :maxdepth: 2
 
     introduccion   
-    glosario   
+    glosario
+    contenido
 
 Indices y tablas
 ================
