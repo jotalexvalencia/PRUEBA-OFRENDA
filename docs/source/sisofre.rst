@@ -1,10 +1,8 @@
-.. _sisofre:
+SISOFRE
+=======
 
-Sisofre
-=====
+.. autosummary::
+   :toctree: generated
 
-Manual soporte desarrollado por Edwar
-
-
-Documentación personal TIC LA OFRENDA.  
+   Manual de soporte por Edward
   
