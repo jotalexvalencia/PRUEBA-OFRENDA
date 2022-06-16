@@ -10,5 +10,5 @@ Sisofre
     </div>
 
 
-En español ingresar o entrar es el proceso mediante el cual se controla el acceso individual a un sistema informático.  
+Documentación personal TIC LA OFRENDA.  
   
